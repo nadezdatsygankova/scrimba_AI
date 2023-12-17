@@ -1,4 +1,7 @@
 import { dates } from '/utils/dates'
+// your-app.js
+const apiKey = process.env.POLIGON_API_KEY;
+
 
 const tickersArr = []
 
